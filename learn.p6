@@ -68,7 +68,7 @@ say (1 … 199 ).pick(5) ;
 say [+] 3 … 15,1,5 ;
 say (13.rand.Int … 40).roll(14).pick(6) ;
 
-# Reduction operator
+# Reduce operator
 say [\×] 1 … 25 ;
 
 # zip operator
